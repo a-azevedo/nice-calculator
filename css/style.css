@@ -89,8 +89,7 @@ body
     0 0 8px #219cf3;
 }
 .calculator .buttons span#clear
-{
-  grid-column: ;
+{  
   background: #f44336;
   color: #fff;  
 } 
