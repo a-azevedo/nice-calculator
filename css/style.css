@@ -90,7 +90,7 @@ body
 }
 .calculator .buttons span#clear
 {
-  grid-column: span 2;
+  grid-column: ;
   background: #f44336;
   color: #fff;  
 } 
