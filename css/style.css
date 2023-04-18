@@ -103,4 +103,11 @@ body
 {  
   background: #2196f3;
   color: #fff;  
+}
+.copy
+{   
+    left: 8px;    
+    padding: 20px;
+    margin: 6px;
+    color: #ccc;    
 }  
